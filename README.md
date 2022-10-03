@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samanthaweglinski!
-- 🌱 I’m currently a full stack software engineer at App Academy.
+- 🌱 I’m currently a full stack software engineer seeking new job opporunities.
 - 👀 I’m interested in travel, video games, trying new restaurants, and roller skating.
 - 💞️ I’m looking to collaborate on new and exciting projects to learn new things and showcase my skills.
 
