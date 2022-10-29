@@ -3,7 +3,7 @@
 </h2>
 
 - 🌱 I’m currently a full stack software engineer seeking new job opportunities.
-- 👀 My other hobbies include travel, video games, trying new restaurants, and roller skating.
+- 👀 My other hobbies include traveling, video games, trying new restaurants, and roller skating.
 - 💞️ I’m looking to collaborate on new and exciting projects to learn new things and showcase my skills.
 
 <br> </br>
