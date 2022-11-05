@@ -4,7 +4,7 @@
 
 - 🌱 I’m a full stack software engineer seeking new job opportunities.
 - 👀 My other hobbies include traveling, video games, trying new restaurants, and roller skating.
-- 💞️ I would love to collaborate on challening and exciting projects to learn new things and showcase my skills.
+- 💞️ I would love to collaborate on challenging and exciting new projects to learn new things and showcase my skills.
 
 <br>
 
