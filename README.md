@@ -4,9 +4,9 @@
 
 - 🌱 I’m a full stack software engineer seeking new job opportunities.
 - 👀 My other hobbies include traveling, video games, trying new restaurants, and roller skating.
-- 💞️ I would love to collaborate on challenging and exciting new projects to learn new things and showcase my skills.
+- 💞️ I am always open to collaborating on new and exciting projects!
 
-#### Come check out [my portfolio](https://samanthaweglinski.github.io/)!
+#### Check out [my portfolio](https://samanthaweglinski.github.io/) to learn more!
 
 <br>
 
