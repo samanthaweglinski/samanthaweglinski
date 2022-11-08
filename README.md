@@ -6,6 +6,8 @@
 - 👀 My other hobbies include traveling, video games, trying new restaurants, and roller skating.
 - 💞️ I would love to collaborate on challenging and exciting new projects to learn new things and showcase my skills.
 
+#### Come check out [my portfolio](https://samanthaweglinski.github.io/)!
+
 <br>
 
 <a href="https://git.io/streak-statss">
