@@ -1,5 +1,5 @@
 <h2 align="center">
-  👋 Hello, I’m Samantha Weglinski! <img src="https://media.tenor.com/_mUKMulve5MAAAAd/anya-spy-x-family.gif" width="40" height="40" />
+  👋 Hello World, I’m Samantha Weglinski! <img src="https://media.tenor.com/_mUKMulve5MAAAAd/anya-spy-x-family.gif" width="40" height="40" />
 </h2>
 
 - 🌱 I’m a full stack software engineer currently seeking new job opportunities.
