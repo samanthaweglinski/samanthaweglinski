@@ -3,7 +3,7 @@
 </h2>
 
 - 🌱 I’m a full stack software engineer currently seeking new job opportunities that will allow me to showcase my skills and learn new things along the way.
-- 👀 My other hobbies include traveling, video games, trying new restaurants, and roller skating.
+- 👀 My other hobbies include traveling, video games, growing plants, trying new restaurants, and roller skating.
 - 💞️ I am always open to collaborating on new and exciting projects.
 - 👩‍🎓 I am currently working on: getting my AWS certification!
 - 💻 Check out [my portfolio](https://samanthaweglinski.github.io/) to learn more about me! 
