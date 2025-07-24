@@ -14,9 +14,6 @@
 <a href="https://git.io/streak-stats">
   <img height="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthaweglinski&layout=compact&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height ="150px" width="405px" align="center" src="https://streak-stats.demolab.com/?user=samanthaweglinski&theme=material-palenight" />
-</a>
 </p>
 
 <!---
